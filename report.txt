@@ -1,0 +1,5 @@
+STUDENT REPORT
+Average: 71.0
+Highest: 90
+Lowest: 50
+Pass Rate: 100.0%
